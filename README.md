@@ -1,5 +1,5 @@
 # any-cuda
-Ever had spent countless hours downloading and/or configuring the correct cuda version you need? I know I have. Well...this repository is for you!
+Ever spent countless hours downloading and/or configuring the correct cuda version you need? I know I have. Well...this repository is for you!
 
 This repository is mostly taken from the [bitsandbytes install_cuda.sh file](https://github.com/bitsandbytes-foundation/bitsandbytes/blob/main/install_cuda.sh) but I modified it slightly.
 The modifications are the following:
