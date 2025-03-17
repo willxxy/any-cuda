@@ -16,6 +16,10 @@ where
 - BASE_PATH is your absolute path to the directory you want to download your cuda files to.
 - EXPORT_BASHRC can be optionally set to 1 if you want to automatically configure your bash file and source it (I recommend this).
 
+This is an example:
+
+`./install_cuda.sh 121 /home/user/cuda121 0`
+
 Make sure to allow permissions for install_cuda.sh! You can do this by
 
 `chmod +x install_cuda.sh`
