@@ -24,7 +24,7 @@ Make sure to allow permissions for install_cuda.sh! You can do this by
 
 `chmod +x install_cuda.sh`
 
-This should work for most cases (I have tried it many times and always works). If there are any exceptions please don't hesitate to submit an issue!
+This should work for most cases but if there are any exceptions please don't hesitate to submit an issue!
 
 # Known Issues
 
