@@ -24,6 +24,12 @@ Make sure to allow permissions for install_cuda.sh! You can do this by
 
 `chmod +x install_cuda.sh`
 
+If you want to check if the correct nvcc version was configured just execute:
+
+`nvcc --version`
+
+and it should hopefully say the version in which you defined for CUDA_VERSION.
+
 This should work for most cases but if there are any exceptions please don't hesitate to submit an issue!
 
 # Known Issues
